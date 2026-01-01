@@ -7,7 +7,7 @@
 </h1>
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Rafi.
+I'm Rafiul.
 </p>
 <p align='center'>For enquiries, reach out @ rafiulislam040@gmail.com or over on <a href="https://www.linkedin.com/in/rafiulislam040">Twitter</a>.</p>
 
