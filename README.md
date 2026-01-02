@@ -5,10 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+RAFIUL+ISLAM....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
+<!-- <h1 align='center'> Hi! :wave:</h1> -->
+<!-- <p align='center'>
 I'm Rafiul.
-</p>
+</p> -->
 <!-- <p align='center'>For enquiries, reach out @ rafiulislam040@gmail.com or over on <a href="https://www.linkedin.com/in/rafiulislam040">Twitter</a>.</p> -->
 
 <!-- <h1 align='center'><i>Stay awesome!</i></h1> -->
@@ -36,7 +36,7 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 
 - 🌱 Exploring **Next.js**
 - 🧠 Improving **JavaScript problem-solving**
-- 🏗️ Working on a **Tourism Website**
+- 🏗️ Working on a **Shareing Website**
 - 🎯 Preparing for **freelancing & remote jobs**
 
 ---
