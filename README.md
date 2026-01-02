@@ -9,9 +9,9 @@
 <p align='center'>
 I'm Rafiul.
 </p>
-<p align='center'>For enquiries, reach out @ rafiulislam040@gmail.com or over on <a href="https://www.linkedin.com/in/rafiulislam040">Twitter</a>.</p>
+<!-- <p align='center'>For enquiries, reach out @ rafiulislam040@gmail.com or over on <a href="https://www.linkedin.com/in/rafiulislam040">Twitter</a>.</p> -->
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<!-- <h1 align='center'><i>Stay awesome!</i></h1> -->
 
 <!-- Banner -->
 <p align="center">
